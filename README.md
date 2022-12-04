@@ -1,2 +1,1 @@
-# Example
-Git Exmaple
+Exmaple
